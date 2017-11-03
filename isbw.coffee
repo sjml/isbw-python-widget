@@ -1,4 +1,4 @@
-command: "~/Projects/isbw-cli-widget/env/bin/python ~/Projects/isbw/isbw.py --html"
+command: "~/Projects/isbw-cli-widget/env/bin/python ~/Projects/isbw-cli-widget/isbw.py --html"
 
 # refresh every hour
 refreshFrequency: "1h"
