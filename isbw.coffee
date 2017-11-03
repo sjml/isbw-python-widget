@@ -1,7 +1,7 @@
-command: "~/Projects/isbw/env/bin/python ~/Projects/isbw/isbw.py --html"
+command: "~/Projects/isbw-cli-widget/env/bin/python ~/Projects/isbw/isbw.py --html"
 
-# refresh ever 12 hours
-refreshFrequency: "12h"
+# refresh every hour
+refreshFrequency: "1h"
 
 # render gets called after the shell command has executed. The command's output
 # is passed in as a string. Whatever it returns will get rendered as HTML.

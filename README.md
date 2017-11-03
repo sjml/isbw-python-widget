@@ -69,3 +69,5 @@ You can also install the Übersicht widget (pictured above) by running:
 ```
 %> ./install_widget.zsh
 ```
+
+(Note you'll have to change the path to the command in the widget.)
